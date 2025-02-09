@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayant Ramdurg</h1>
 <h3 align="center">Aspiring FullStack developer</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3BF71D&width=435&lines=Welcome+to+my+GitHub+profile!!;Open+Source+Enthusiast%F0%9F%9A%80;Always+Learning%F0%9F%93%9A%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3BF71D&width=435&lines=Welcome+to+my+GitHub+profile!!;Open+Source+Enthusiast!!%F0%9F%9A%80;Always+Learning%F0%9F%93%9A%F0%9F%8C%B1" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackspar45&label=Profile%20views&color=0e75b6&style=flat" alt="jackspar45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackspar45" alt="jackspar45" /></a> </p>
